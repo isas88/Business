@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phoenix Farmers Market</string>
+    <string name="address">9350 W Northern Ave, Glendale, AZ 85305</string>
+    <string name="contact">(123) 455-3231 </string>
+    <string name="email">mailus@phoenixfarmers.com</string>
+    <string name="website">https://phoenixfarmers.com</string>
+    <string name="hours">Monday - Sunday | 7 AM to 10 PM</string>
+    <string name="description">Fresh natural and organic grocery items from local farmers</string>
+</resources>
